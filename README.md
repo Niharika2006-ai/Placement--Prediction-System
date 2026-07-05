@@ -31,3 +31,6 @@ This project predicts whether a student will be placed and estimates the expecte
 
 ## Author
 Niharika N
+
+Open this project in Google Colab:
+https://colab.research.google.com/drive/1Its18T_O5DKaioX1_BdmVd-zFWTPrjtp?usp=sharing
