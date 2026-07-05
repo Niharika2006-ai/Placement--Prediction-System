@@ -34,3 +34,7 @@ Niharika N
 
 Open this project in Google Colab:
 https://colab.research.google.com/drive/1Its18T_O5DKaioX1_BdmVd-zFWTPrjtp?usp=sharing
+
+## Dataset
+Dataset: Placement Data Full Class
+Source: Kaggle
